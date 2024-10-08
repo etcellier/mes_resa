@@ -1,0 +1,5 @@
+-- Création des séquences pour les ID des tables
+CREATE SEQUENCE airplane_seq START WITH 1 INCREMENT BY 1;
+CREATE SEQUENCE flight_seq START WITH 1 INCREMENT BY 1;
+CREATE SEQUENCE passenger_seq START WITH 1 INCREMENT BY 1;
+CREATE SEQUENCE reservation_seq START WITH 1 INCREMENT BY 1;
